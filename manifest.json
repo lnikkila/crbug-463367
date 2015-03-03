@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "crbug-463367",
+  "author": "Leo Nikkilä",
+  "version": "1",
+
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+
+  "browser_action": {}
+}
